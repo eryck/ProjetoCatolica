@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: c39ba06dd0e36d045995c0a0ed558f32
+timeCreated: 1520167559
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ARO_DEMO
+    100002: Caixa_Incendio
+    100004: Caixa_Incendio_vidro
+    100006: //RootNode
+    100008: Escada_Janela
+    100010: Escada_Janela_Grade
+    100012: Escada_Parde_T
+    100014: Escada_Parede_Fundo
+    100016: Escada_Parede_Lateral
+    100018: Escada_Parede_Terceiro
+    100020: Escada_Teto
+    100022: Escada_Viga_G_Lateral
+    100024: Escada_Viga_Teto
+    100026: Escada_Viga_Tranversal
+    100028: Escada_Vigas_Curva_Direita
+    100030: Escada_Vigas_Curva_Esquerda
+    100032: Escadaria
+    100034: Extintor
+    100036: Extintor_Boca
+    100038: Extintor_gatilho
+    100040: Extintor_Relogio
+    100042: Janela_Porta_Saida
+    100044: Janela_Terceiro
+    100046: Parede_Esterna_Corredor_Geral
+    100048: Parede_Esterna_Corredor_Terceiro
+    100050: Parede_Esterna_Corredor_Terreo
+    100052: Parede_Esterna_Janela_grade
+    100054: Parede_Esterna_Varanda_Segundo
+    100056: Parede_Externa_Superior
+    100058: Parede_Interna
+    100060: Parede_Interna_Corredor_Lateral
+    100062: Parede_Interna_Janela
+    100064: Parede_Lateral
+    100066: Parede_Sup_Por_Vidro
+    100068: Pilar_Terreo
+    100070: Piso_Porta
+    100072: Porta
+    100074: Porta Incendio
+    100076: Porta_Comum
+    100078: Porta_Saida_F1
+    100080: Porta_SaidaF2
+    100082: Porta_Sala
+    100084: Porta_sala_Grade
+    100086: Porta_sala_janela_superior
+    100088: Porta_sala_vidro
+    100090: Porta_VidroFolha
+    100092: Portal_Portas_Normais
+    100094: Terreo_Grade_Base
+    100096: Terreo_Grade_Fio
+    100098: Teto_Vigado
+    100100: Viga _Horizontal_Geral
+    100102: Viga_Chapa_Juncao
+    100104: Viga_Horizontal_Corredor
+    100106: Viga_Vertical_Grande
+    100108: Viga_Vertical_Pequena
+    100110: Vigas_DEMO
+    400000: ARO_DEMO
+    400002: Caixa_Incendio
+    400004: Caixa_Incendio_vidro
+    400006: //RootNode
+    400008: Escada_Janela
+    400010: Escada_Janela_Grade
+    400012: Escada_Parde_T
+    400014: Escada_Parede_Fundo
+    400016: Escada_Parede_Lateral
+    400018: Escada_Parede_Terceiro
+    400020: Escada_Teto
+    400022: Escada_Viga_G_Lateral
+    400024: Escada_Viga_Teto
+    400026: Escada_Viga_Tranversal
+    400028: Escada_Vigas_Curva_Direita
+    400030: Escada_Vigas_Curva_Esquerda
+    400032: Escadaria
+    400034: Extintor
+    400036: Extintor_Boca
+    400038: Extintor_gatilho
+    400040: Extintor_Relogio
+    400042: Janela_Porta_Saida
+    400044: Janela_Terceiro
+    400046: Parede_Esterna_Corredor_Geral
+    400048: Parede_Esterna_Corredor_Terceiro
+    400050: Parede_Esterna_Corredor_Terreo
+    400052: Parede_Esterna_Janela_grade
+    400054: Parede_Esterna_Varanda_Segundo
+    400056: Parede_Externa_Superior
+    400058: Parede_Interna
+    400060: Parede_Interna_Corredor_Lateral
+    400062: Parede_Interna_Janela
+    400064: Parede_Lateral
+    400066: Parede_Sup_Por_Vidro
+    400068: Pilar_Terreo
+    400070: Piso_Porta
+    400072: Porta
+    400074: Porta Incendio
+    400076: Porta_Comum
+    400078: Porta_Saida_F1
+    400080: Porta_SaidaF2
+    400082: Porta_Sala
+    400084: Porta_sala_Grade
+    400086: Porta_sala_janela_superior
+    400088: Porta_sala_vidro
+    400090: Porta_VidroFolha
+    400092: Portal_Portas_Normais
+    400094: Terreo_Grade_Base
+    400096: Terreo_Grade_Fio
+    400098: Teto_Vigado
+    400100: Viga _Horizontal_Geral
+    400102: Viga_Chapa_Juncao
+    400104: Viga_Horizontal_Corredor
+    400106: Viga_Vertical_Grande
+    400108: Viga_Vertical_Pequena
+    400110: Vigas_DEMO
+    2300000: ARO_DEMO
+    2300002: Caixa_Incendio
+    2300004: Caixa_Incendio_vidro
+    2300006: Escada_Janela
+    2300008: Escada_Janela_Grade
+    2300010: Escada_Parde_T
+    2300012: Escada_Parede_Fundo
+    2300014: Escada_Parede_Lateral
+    2300016: Escada_Parede_Terceiro
+    2300018: Escada_Teto
+    2300020: Escada_Viga_G_Lateral
+    2300022: Escada_Viga_Teto
+    2300024: Escada_Viga_Tranversal
+    2300026: Escada_Vigas_Curva_Direita
+    2300028: Escada_Vigas_Curva_Esquerda
+    2300030: Escadaria
+    2300032: Extintor
+    2300034: Extintor_Boca
+    2300036: Extintor_gatilho
+    2300038: Extintor_Relogio
+    2300040: Janela_Porta_Saida
+    2300042: Janela_Terceiro
+    2300044: Parede_Esterna_Corredor_Geral
+    2300046: Parede_Esterna_Corredor_Terceiro
+    2300048: Parede_Esterna_Corredor_Terreo
+    2300050: Parede_Esterna_Janela_grade
+    2300052: Parede_Esterna_Varanda_Segundo
+    2300054: Parede_Externa_Superior
+    2300056: Parede_Interna
+    2300058: Parede_Interna_Corredor_Lateral
+    2300060: Parede_Interna_Janela
+    2300062: Parede_Lateral
+    2300064: Parede_Sup_Por_Vidro
+    2300066: Pilar_Terreo
+    2300068: Piso_Porta
+    2300070: Porta
+    2300072: Porta Incendio
+    2300074: Porta_Comum
+    2300076: Porta_Saida_F1
+    2300078: Porta_SaidaF2
+    2300080: Porta_Sala
+    2300082: Porta_sala_Grade
+    2300084: Porta_sala_janela_superior
+    2300086: Porta_sala_vidro
+    2300088: Porta_VidroFolha
+    2300090: Portal_Portas_Normais
+    2300092: Terreo_Grade_Base
+    2300094: Terreo_Grade_Fio
+    2300096: Teto_Vigado
+    2300098: Viga _Horizontal_Geral
+    2300100: Viga_Chapa_Juncao
+    2300102: Viga_Horizontal_Corredor
+    2300104: Viga_Vertical_Grande
+    2300106: Viga_Vertical_Pequena
+    2300108: Vigas_DEMO
+    3300000: ARO_DEMO
+    3300002: Caixa_Incendio
+    3300004: Caixa_Incendio_vidro
+    3300006: Escada_Janela
+    3300008: Escada_Janela_Grade
+    3300010: Escada_Parde_T
+    3300012: Escada_Parede_Fundo
+    3300014: Escada_Parede_Lateral
+    3300016: Escada_Parede_Terceiro
+    3300018: Escada_Teto
+    3300020: Escada_Viga_G_Lateral
+    3300022: Escada_Viga_Teto
+    3300024: Escada_Viga_Tranversal
+    3300026: Escada_Vigas_Curva_Direita
+    3300028: Escada_Vigas_Curva_Esquerda
+    3300030: Escadaria
+    3300032: Extintor
+    3300034: Extintor_Boca
+    3300036: Extintor_gatilho
+    3300038: Extintor_Relogio
+    3300040: Janela_Porta_Saida
+    3300042: Janela_Terceiro
+    3300044: Parede_Esterna_Corredor_Geral
+    3300046: Parede_Esterna_Corredor_Terceiro
+    3300048: Parede_Esterna_Corredor_Terreo
+    3300050: Parede_Esterna_Janela_grade
+    3300052: Parede_Esterna_Varanda_Segundo
+    3300054: Parede_Externa_Superior
+    3300056: Parede_Interna
+    3300058: Parede_Interna_Corredor_Lateral
+    3300060: Parede_Interna_Janela
+    3300062: Parede_Lateral
+    3300064: Parede_Sup_Por_Vidro
+    3300066: Pilar_Terreo
+    3300068: Piso_Porta
+    3300070: Porta
+    3300072: Porta Incendio
+    3300074: Porta_Comum
+    3300076: Porta_Saida_F1
+    3300078: Porta_SaidaF2
+    3300080: Porta_Sala
+    3300082: Porta_sala_Grade
+    3300084: Porta_sala_janela_superior
+    3300086: Porta_sala_vidro
+    3300088: Porta_VidroFolha
+    3300090: Portal_Portas_Normais
+    3300092: Terreo_Grade_Base
+    3300094: Terreo_Grade_Fio
+    3300096: Teto_Vigado
+    3300098: Viga _Horizontal_Geral
+    3300100: Viga_Chapa_Juncao
+    3300102: Viga_Horizontal_Corredor
+    3300104: Viga_Vertical_Grande
+    3300106: Viga_Vertical_Pequena
+    3300108: Vigas_DEMO
+    4300000: Viga_Chapa_Juncao
+    4300002: Escada_Parede_Lateral
+    4300004: Escada_Parede_Fundo
+    4300006: Escada_Viga_Teto
+    4300008: Escada_Janela
+    4300010: Escada_Janela_Grade
+    4300012: Escada_Parede_Terceiro
+    4300014: Escada_Parde_T
+    4300016: Escada_Vigas_Curva_Direita
+    4300018: Escada_Vigas_Curva_Esquerda
+    4300020: Escada_Viga_Tranversal
+    4300022: Escada_Viga_G_Lateral
+    4300024: Escada_Teto
+    4300026: Escadaria
+    4300028: Viga _Horizontal_Geral
+    4300030: Viga_Horizontal_Corredor
+    4300032: Porta_Comum
+    4300034: Porta
+    4300036: Porta_sala_Grade
+    4300038: Porta_SaidaF2
+    4300040: Janela_Porta_Saida
+    4300042: Porta_Saida_F1
+    4300044: Parede_Sup_Por_Vidro
+    4300046: Porta_VidroFolha
+    4300048: Parede_Lateral
+    4300050: Piso_Porta
+    4300052: Parede_Externa_Superior
+    4300054: Janela_Terceiro
+    4300056: Parede_Esterna_Corredor_Terceiro
+    4300058: Parede_Esterna_Varanda_Segundo
+    4300060: Parede_Interna_Corredor_Lateral
+    4300062: Terreo_Grade_Fio
+    4300064: Terreo_Grade_Base
+    4300066: Pilar_Terreo
+    4300068: Parede_Esterna_Corredor_Terreo
+    4300070: Extintor_gatilho
+    4300072: Extintor_Boca
+    4300074: Extintor_Relogio
+    4300076: Extintor
+    4300078: Porta_sala_vidro
+    4300080: Caixa_Incendio_vidro
+    4300082: ARO_DEMO
+    4300084: Caixa_Incendio
+    4300086: Teto_Vigado
+    4300088: Parede_Interna_Janela
+    4300090: Porta_sala_janela_superior
+    4300092: Viga_Vertical_Pequena
+    4300094: Portal_Portas_Normais
+    4300096: Parede_Interna
+    4300098: Viga_Vertical_Grande
+    4300100: Vigas_DEMO
+    4300102: Porta_Sala
+    4300104: Porta Incendio
+    4300106: Parede_Esterna_Janela_grade
+    4300108: Parede_Esterna_Corredor_Geral
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caixa_Incendio
+    second: {fileID: 2100000, guid: fdbe6857ad921104f958f107df217e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Janela
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Janela_Grade
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Parede_Fundo1
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Parede_T
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Parede_Terceiro
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Parede_lateral
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Teto
+    second: {fileID: 2100000, guid: 9c92899a5b787464f8db2d2a32711ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Viga_G_Lateral
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Viga_Teto
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Viga_Tranversal
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Vigas_Curva_Direita
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Vigas_Curva_Esquerda
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escadaria
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extintor
+    second: {fileID: 2100000, guid: fdbe6857ad921104f958f107df217e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extintor_Boca
+    second: {fileID: 2100000, guid: a396fcd27b44688479a70bce7efc6098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extintor_Relogio.001
+    second: {fileID: 2100000, guid: fdbe6857ad921104f958f107df217e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extintor_Relogio2
+    second: {fileID: 2100000, guid: 1996ccefc4fee0048ab5888f336dde4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extintor_gatilho
+    second: {fileID: 2100000, guid: fdbe6857ad921104f958f107df217e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela_Porta_Saida
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela_Terceiro
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6b2a595063cd76a4bb27c6de70c2e40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Esterna_Corredor_Geral
+    second: {fileID: 2100000, guid: 4af5ad3ed6b3ffe41b080c851b9b0ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Esterna_Corredor_Geral2
+    second: {fileID: 2100000, guid: e9af0132fa3c7ac49951a10bfd84807c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Esterna_Janela_grade
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna1
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna2
+    second: {fileID: 2100000, guid: c78050c657ffdcf418d172fb104837fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral1
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral2
+    second: {fileID: 2100000, guid: e7e1c3e5f02b59b4383ce4e5702fc652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Janela
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Terreo
+    second: {fileID: 2100000, guid: 4af5ad3ed6b3ffe41b080c851b9b0ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Terreo2
+    second: {fileID: 2100000, guid: e9af0132fa3c7ac49951a10bfd84807c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Parede_Varanda
+    second: {fileID: 2100000, guid: e9af0132fa3c7ac49951a10bfd84807c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Porta
+    second: {fileID: 2100000, guid: a4abca3472f20df4480a88d3edf5e826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta Incendio
+    second: {fileID: 2100000, guid: fdbe6857ad921104f958f107df217e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_Comum
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_SaidaF2
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_Sala
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_sala_Grade
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_sala_janela_superior
+    second: {fileID: 2100000, guid: 61f3e1068b680364290af0b8a0444009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portal_Portas_Normais
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terreo_Grade_Base
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto_Vigado
+    second: {fileID: 2100000, guid: 9c92899a5b787464f8db2d2a32711ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viga _Horizontal_Geral
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viga_Chapa_Juncao
+    second: {fileID: 2100000, guid: e050def693772f141a257d89b879b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viga_Vertical_Grande
+    second: {fileID: 2100000, guid: f52e980cda3880644838ef46102eaaa8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

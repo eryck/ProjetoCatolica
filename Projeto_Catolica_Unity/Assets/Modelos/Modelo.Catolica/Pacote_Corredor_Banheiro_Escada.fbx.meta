@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 5104f7927e4441745843794ae70d29c9
+timeCreated: 1521416345
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Parede_Banheiro
+    100004: Parede_Bebedouro_Escada_P0_P2
+    100006: Parede_Bebedouro_Escada_P3
+    100008: Parede_Elevador
+    100010: Parede_Escada_Corredor
+    100012: Parede_Escada_Fundo_Baixa
+    100014: Parede_Escada_Fundo_P3
+    100016: Parede_Escada_Interna
+    100018: Parede_Escada_P0
+    100020: Parede_Escada_P1_P2
+    100022: Parede_Escada_P3
+    100024: Parede_Interna_Corredor_Lateral_AltaD
+    100026: Parede_Interna_Corredor_Lateral_AltaE
+    100028: Parede_Interna_Corredor_Lateral_BaixaD
+    100030: Parede_Interna_Corredor_Lateral_BaixaE
+    100032: Pilar_Terreo
+    100034: Piso_Banheiro
+    100036: Piso_Bebedouro
+    100038: Teto_Banheiro
+    400000: //RootNode
+    400002: Parede_Banheiro
+    400004: Parede_Bebedouro_Escada_P0_P2
+    400006: Parede_Bebedouro_Escada_P3
+    400008: Parede_Elevador
+    400010: Parede_Escada_Corredor
+    400012: Parede_Escada_Fundo_Baixa
+    400014: Parede_Escada_Fundo_P3
+    400016: Parede_Escada_Interna
+    400018: Parede_Escada_P0
+    400020: Parede_Escada_P1_P2
+    400022: Parede_Escada_P3
+    400024: Parede_Interna_Corredor_Lateral_AltaD
+    400026: Parede_Interna_Corredor_Lateral_AltaE
+    400028: Parede_Interna_Corredor_Lateral_BaixaD
+    400030: Parede_Interna_Corredor_Lateral_BaixaE
+    400032: Pilar_Terreo
+    400034: Piso_Banheiro
+    400036: Piso_Bebedouro
+    400038: Teto_Banheiro
+    2300000: Parede_Banheiro
+    2300002: Parede_Bebedouro_Escada_P0_P2
+    2300004: Parede_Bebedouro_Escada_P3
+    2300006: Parede_Elevador
+    2300008: Parede_Escada_Corredor
+    2300010: Parede_Escada_Fundo_Baixa
+    2300012: Parede_Escada_Fundo_P3
+    2300014: Parede_Escada_Interna
+    2300016: Parede_Escada_P0
+    2300018: Parede_Escada_P1_P2
+    2300020: Parede_Escada_P3
+    2300022: Parede_Interna_Corredor_Lateral_AltaD
+    2300024: Parede_Interna_Corredor_Lateral_AltaE
+    2300026: Parede_Interna_Corredor_Lateral_BaixaD
+    2300028: Parede_Interna_Corredor_Lateral_BaixaE
+    2300030: Pilar_Terreo
+    2300032: Piso_Banheiro
+    2300034: Piso_Bebedouro
+    2300036: Teto_Banheiro
+    3300000: Parede_Banheiro
+    3300002: Parede_Bebedouro_Escada_P0_P2
+    3300004: Parede_Bebedouro_Escada_P3
+    3300006: Parede_Elevador
+    3300008: Parede_Escada_Corredor
+    3300010: Parede_Escada_Fundo_Baixa
+    3300012: Parede_Escada_Fundo_P3
+    3300014: Parede_Escada_Interna
+    3300016: Parede_Escada_P0
+    3300018: Parede_Escada_P1_P2
+    3300020: Parede_Escada_P3
+    3300022: Parede_Interna_Corredor_Lateral_AltaD
+    3300024: Parede_Interna_Corredor_Lateral_AltaE
+    3300026: Parede_Interna_Corredor_Lateral_BaixaD
+    3300028: Parede_Interna_Corredor_Lateral_BaixaE
+    3300030: Pilar_Terreo
+    3300032: Piso_Banheiro
+    3300034: Piso_Bebedouro
+    3300036: Teto_Banheiro
+    4300000: Parede_Escada_Fundo_Baixa
+    4300002: Parede_Escada_Fundo_P3
+    4300004: Parede_Bebedouro_Escada_P3
+    4300006: Parede_Escada_P3
+    4300008: Parede_Escada_P1_P2
+    4300010: Parede_Escada_P0
+    4300012: Parede_Escada_Interna
+    4300014: Parede_Bebedouro_Escada_P0_P2
+    4300016: Parede_Escada_Corredor
+    4300018: Teto_Banheiro
+    4300020: Piso_Bebedouro
+    4300022: Piso_Banheiro
+    4300024: Parede_Banheiro
+    4300026: Parede_Elevador
+    4300028: Parede_Interna_Corredor_Lateral_BaixaE
+    4300030: Parede_Interna_Corredor_Lateral_BaixaD
+    4300032: Parede_Interna_Corredor_Lateral_AltaD
+    4300034: Parede_Interna_Corredor_Lateral_AltaE
+    4300036: Pilar_Terreo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banheiro_Piso
+    second: {fileID: 2100000, guid: eba6bdb61537be6438ea98e564a6c619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bebedouro_P1
+    second: {fileID: 2100000, guid: 99441591ce4413042b30c6053368f5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bebedouro_P2
+    second: {fileID: 2100000, guid: 8fac993119506ae4585270152879dd0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bebedouro_Piso
+    second: {fileID: 2100000, guid: 6a7d805a88e6e73498ffcc147e409c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro
+    second: {fileID: 2100000, guid: 8f2302d56b894bd40b7045295de761c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro_P1
+    second: {fileID: 2100000, guid: 4cad58caedf9cc545b7eaa4da8b51dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro_P2
+    second: {fileID: 2100000, guid: 60134f8549eaa6644a88fbcadd423c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro_P3
+    second: {fileID: 2100000, guid: 7b3eb321b419df3499cd2759d213b0ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro_P4
+    second: {fileID: 2100000, guid: 56041a9425072744fb0df8424325bc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Banheiro_P5
+    second: {fileID: 2100000, guid: 39d563b89a2dbfa4790c5d5117eacabf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P0_P2
+    second: {fileID: 2100000, guid: 2fcf050d7ecbfcb48bf240384055af49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3
+    second: {fileID: 2100000, guid: ea1730a97b9495b469125a303fd7d21d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3_Piso1
+    second: {fileID: 2100000, guid: 3c2178edca6e1184e9b7f7596984f2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3_Piso2
+    second: {fileID: 2100000, guid: a113a43945af6214b82e99f9be7b0ffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3_Piso3
+    second: {fileID: 2100000, guid: 3cc6c78ef612fbe4890c0fb8813368bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_Piso
+    second: {fileID: 2100000, guid: ffdaf07ed55aa0548b74410352dde3d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador
+    second: {fileID: 2100000, guid: 3f42d14112f9c014d99ee01ee7f1d0ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P1
+    second: {fileID: 2100000, guid: 3cb3bec2196d0ec42a81441a14eda560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P2
+    second: {fileID: 2100000, guid: c9dfa8d2f0fb6f34b9e028ebf575e112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P3
+    second: {fileID: 2100000, guid: 66e6e51e78eff474599901004b2ad4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P4
+    second: {fileID: 2100000, guid: 1c78419fed668f141a398da04d76e288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P5
+    second: {fileID: 2100000, guid: a969809a566271c449f9d584661b68ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Elevador_P6
+    second: {fileID: 2100000, guid: b84fbc14d33b89d44b4986b58d74d46d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Corredor
+    second: {fileID: 2100000, guid: df10ee75f23d4c047b34c8d3149b0613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Corredor_Piso
+    second: {fileID: 2100000, guid: 3fe3a4f8ae05a1b408165c45c1e58d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Fundo_Baixa
+    second: {fileID: 2100000, guid: aa313a98b54335b4fa51295137211a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Fundo_Baixa_Piso
+    second: {fileID: 2100000, guid: b0a70a12ab1344342ab3625b08b870c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Fundo_P3
+    second: {fileID: 2100000, guid: b7a7226b5dae2ca4d82cd9f592a73618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Interna
+    second: {fileID: 2100000, guid: 4e83083dfd40e1e45ae8fbbe4d75d647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_Interna_Piso
+    second: {fileID: 2100000, guid: 33fd27cbb5fc1f8408b313575dac3e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P0
+    second: {fileID: 2100000, guid: c1bc8e45cd743d84f93f034ebe129c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P0_Piso
+    second: {fileID: 2100000, guid: c600feb7e83d86d40b91bb0ea459c319, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P1_P2
+    second: {fileID: 2100000, guid: 57d52d14142978646b36c2e177d1bad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P1_P2_Piso
+    second: {fileID: 2100000, guid: 4f6ac0910e0631242b9ebc4b2e361fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P3
+    second: {fileID: 2100000, guid: 939c8697189761245bbdd9483243e57a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escada_P3_Piso
+    second: {fileID: 2100000, guid: 2a0f2c692bf66584a89d30f7b723c198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_AltaD
+    second: {fileID: 2100000, guid: b7de548d2fc5dd948bb7378caed3aa15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_AltaE
+    second: {fileID: 2100000, guid: 5603dd8d3bbf3bc418f4b3dfb3cf009d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_AltaE_Piso
+    second: {fileID: 2100000, guid: b81b948d92af19143b0845b31b97648b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_BaixaD
+    second: {fileID: 2100000, guid: 63ec52745e91bf24a9660f1b6a08d472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_BaixaE
+    second: {fileID: 2100000, guid: 66bdf503caa36c5429e1926f31c7f0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Terreo_G
+    second: {fileID: 2100000, guid: 6f54fbf799b0ec24e841756ab8f4daf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilar_Terreo_Piso
+    second: {fileID: 2100000, guid: 720ea77f060cd9a49b527ad2ae5b6690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Banheiro
+    second: {fileID: 2100000, guid: 28688cb44ebd1e449820c62363989e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Bebedouro
+    second: {fileID: 2100000, guid: c8d76c089974b7247aac2432de40435a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_PBD_1
+    second: {fileID: 2100000, guid: 37113e5aabe847947b7c7a0a4ff63bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_PBD_2
+    second: {fileID: 2100000, guid: ad05056e7c005cb41ab2083a623d2708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_PBE_1
+    second: {fileID: 2100000, guid: 96d114291b5ec5f45abe4564ecefc2fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_PBE_2
+    second: {fileID: 2100000, guid: 9e4938b7c5ad78c45b2a69ca82ac3a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Parede_1
+    second: {fileID: 2100000, guid: 9d9116f61d9ef974f8220614057b5585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Parede_2
+    second: {fileID: 2100000, guid: 2182c65d897d1ea42b763519f82f56f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto_Banheiro
+    second: {fileID: 2100000, guid: d459ee870250fd945aa40fd9696c49cb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

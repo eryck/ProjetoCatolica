@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 2129407128cf89b4fa32fcf2d33b531a
+timeCreated: 1523808941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Corrimao
+    100002: Corrimao_Completo
+    100004: Corrimao_Simples
+    100006: Corrimao_Simples_T
+    100008: //RootNode
+    100010: Parapeito
+    100012: Parede_Bebedouro_Escada_P3
+    100014: Parede_Esterna_Corredor_Geral
+    100016: Parede_Esterna_Corredor_Geral.001
+    100018: Parede_Esterna_Corredor_Terceiro
+    100020: Parede_Esterna_Corredor_Terceiro.001
+    100022: Parede_Esterna_Corredor_Terreo_P
+    100024: Parede_Interna_Escada_Pisos
+    100026: Parede_Interna_Escada_TG
+    100028: Porta_Sala
+    100030: Teto_Vigado
+    100032: Varanda
+    400000: Corrimao
+    400002: Corrimao_Completo
+    400004: Corrimao_Simples
+    400006: Corrimao_Simples_T
+    400008: //RootNode
+    400010: Parapeito
+    400012: Parede_Bebedouro_Escada_P3
+    400014: Parede_Esterna_Corredor_Geral
+    400016: Parede_Esterna_Corredor_Geral.001
+    400018: Parede_Esterna_Corredor_Terceiro
+    400020: Parede_Esterna_Corredor_Terceiro.001
+    400022: Parede_Esterna_Corredor_Terreo_P
+    400024: Parede_Interna_Escada_Pisos
+    400026: Parede_Interna_Escada_TG
+    400028: Porta_Sala
+    400030: Teto_Vigado
+    400032: Varanda
+    2300000: Corrimao
+    2300002: Corrimao_Completo
+    2300004: Corrimao_Simples
+    2300006: Corrimao_Simples_T
+    2300008: Parapeito
+    2300010: Parede_Bebedouro_Escada_P3
+    2300012: Parede_Esterna_Corredor_Geral
+    2300014: Parede_Esterna_Corredor_Geral.001
+    2300016: Parede_Esterna_Corredor_Terceiro
+    2300018: Parede_Esterna_Corredor_Terceiro.001
+    2300020: Parede_Esterna_Corredor_Terreo_P
+    2300022: Parede_Interna_Escada_Pisos
+    2300024: Parede_Interna_Escada_TG
+    2300026: Porta_Sala
+    2300028: Teto_Vigado
+    2300030: Varanda
+    3300000: Corrimao
+    3300002: Corrimao_Completo
+    3300004: Corrimao_Simples
+    3300006: Corrimao_Simples_T
+    3300008: Parapeito
+    3300010: Parede_Bebedouro_Escada_P3
+    3300012: Parede_Esterna_Corredor_Geral
+    3300014: Parede_Esterna_Corredor_Geral.001
+    3300016: Parede_Esterna_Corredor_Terceiro
+    3300018: Parede_Esterna_Corredor_Terceiro.001
+    3300020: Parede_Esterna_Corredor_Terreo_P
+    3300022: Parede_Interna_Escada_Pisos
+    3300024: Parede_Interna_Escada_TG
+    3300026: Porta_Sala
+    3300028: Teto_Vigado
+    3300030: Varanda
+    4300000: Corrimao_Simples_T
+    4300002: Corrimao_Simples
+    4300004: Corrimao
+    4300006: Corrimao_Completo
+    4300008: Parapeito
+    4300010: Varanda
+    4300012: Parede_Esterna_Corredor_Terceiro.001
+    4300014: Parede_Esterna_Corredor_Geral.001
+    4300016: Teto_Vigado
+    4300018: Porta_Sala
+    4300020: Parede_Bebedouro_Escada_P3
+    4300022: Parede_Interna_Escada_Pisos
+    4300024: Parede_Interna_Escada_TG
+    4300026: Parede_Esterna_Corredor_Geral
+    4300028: Parede_Esterna_Corredor_Terceiro
+    4300030: Parede_Esterna_Corredor_Terreo_P
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 04817c68b5948fc4f81a3b7cfa4df26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parapeito
+    second: {fileID: 2100000, guid: fee6c41213539754ba49bffd87d61866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3
+    second: {fileID: 2100000, guid: ea1730a97b9495b469125a303fd7d21d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3_Piso1
+    second: {fileID: 2100000, guid: 3c2178edca6e1184e9b7f7596984f2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Bebedouro_Escada_P3_Piso2
+    second: {fileID: 2100000, guid: a113a43945af6214b82e99f9be7b0ffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Esterna_Corredor_Geral
+    second: {fileID: 2100000, guid: f9975c6fd0ea3bd4f8bf214fc75ba107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Esterna_Corredor_Geral2
+    second: {fileID: 2100000, guid: 77dfd6fbe9028634a97135222b6e9606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos
+    second: {fileID: 2100000, guid: 3b8c8499b79df1646bb4d6be103a3a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos_Ceramica
+    second: {fileID: 2100000, guid: 8f174e996eea1f248a13c3b6e939d53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos_Lajota
+    second: {fileID: 2100000, guid: 96b27254e9bd73344a8346094d48d8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG
+    second: {fileID: 2100000, guid: 8b93276d9708f854e9f368ba673050b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG_Ceramica
+    second: {fileID: 2100000, guid: e0d2d198f94f12f4c8ccb1c893fbde11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG_Lajota
+    second: {fileID: 2100000, guid: 30bdc08db12541e438b1c06b6137fada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_Sala
+    second: {fileID: 2100000, guid: 34bc50795fed0c04abf84546dfbb3009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto_Vigado
+    second: {fileID: 2100000, guid: bc43220fd97df164f8e7be5ac05430f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Varanada_Piso_P
+    second: {fileID: 2100000, guid: 2597b1f943ee62d4d9ca0afc4ad10749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Varanda
+    second: {fileID: 2100000, guid: 741801e5d8f2ab542a19cd4a720b2311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Varanda_Piso_G
+    second: {fileID: 2100000, guid: 5affe23fc1a6f4a46a4776420c695e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Varanda_acabamento
+    second: {fileID: 2100000, guid: 05ea858dfe038d64a96337ca9f326db6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

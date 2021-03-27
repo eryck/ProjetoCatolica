@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: cec1b3910c7dc8f41aa609ad5a2a6ed4
+timeCreated: 1521671995
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Elevador_Batente
+    100002: Elevador_Caixa
+    100004: Elevador_Luminaria
+    100006: Elevador_Poprta_A
+    100008: Elevador_Poprta_B
+    100010: Elevador_Portal
+    100012: Elevador_teto
+    100014: //RootNode
+    400000: Elevador_Batente
+    400002: Elevador_Caixa
+    400004: Elevador_Luminaria
+    400006: Elevador_Poprta_A
+    400008: Elevador_Poprta_B
+    400010: Elevador_Portal
+    400012: Elevador_teto
+    400014: //RootNode
+    2300000: Elevador_Batente
+    2300002: Elevador_Caixa
+    2300004: Elevador_Luminaria
+    2300006: Elevador_Poprta_A
+    2300008: Elevador_Poprta_B
+    2300010: Elevador_Portal
+    2300012: Elevador_teto
+    3300000: Elevador_Batente
+    3300002: Elevador_Caixa
+    3300004: Elevador_Luminaria
+    3300006: Elevador_Poprta_A
+    3300008: Elevador_Poprta_B
+    3300010: Elevador_Portal
+    3300012: Elevador_teto
+    4300000: Elevador_teto
+    4300002: Elevador_Luminaria
+    4300004: Elevador_Poprta_B
+    4300006: Elevador_Poprta_A
+    4300008: Elevador_Caixa
+    4300010: Elevador_Batente
+    4300012: Elevador_Portal
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Barras
+    second: {fileID: 2100000, guid: ccd3e7c2c1717a24989c80abf29e65b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Batente
+    second: {fileID: 2100000, guid: f38b54053bda4d74b85d5e3baeb7803f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Caixa
+    second: {fileID: 2100000, guid: fc879cff369c583488fe2aa658c10172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Espelho
+    second: {fileID: 2100000, guid: c3f56ea32f94c1942ade76bab25d3b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Luminaria
+    second: {fileID: 2100000, guid: 4d147b72f5567ba4aad50dfed150f45a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Piso
+    second: {fileID: 2100000, guid: 5c20c0df1cc5d2b4cb64f92cca6d2e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Poprta_A
+    second: {fileID: 2100000, guid: ae423f3b8ee71d948a40591f953549cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Poprta_B
+    second: {fileID: 2100000, guid: 1fbe8772a8677a34c8580c1d86242ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_Portal
+    second: {fileID: 2100000, guid: 7131a3a4be12c7546bfa581a01383653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevador_teto
+    second: {fileID: 2100000, guid: a81c2d1fa98922c459c52d98327e3760, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

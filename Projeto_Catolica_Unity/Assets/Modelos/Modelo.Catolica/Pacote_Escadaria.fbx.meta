@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 8ec4262ecf3fd194e8f44bccb5cc86be
+timeCreated: 1520793040
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Degraus_D
+    100004: Degraus_E
+    100006: Escada_Vigas_Curva_Direita
+    100008: Escada_Vigas_Curva_Esquerda
+    100010: Lamp
+    100012: //RootNode
+    100014: Piso_Escadaria_Fundo
+    100016: Piso_Escadaria_Porta
+    400000: Camera
+    400002: Degraus_D
+    400004: Degraus_E
+    400006: Escada_Vigas_Curva_Direita
+    400008: Escada_Vigas_Curva_Esquerda
+    400010: Lamp
+    400012: //RootNode
+    400014: Piso_Escadaria_Fundo
+    400016: Piso_Escadaria_Porta
+    2000000: Camera
+    2300000: Degraus_D
+    2300002: Degraus_E
+    2300004: Escada_Vigas_Curva_Direita
+    2300006: Escada_Vigas_Curva_Esquerda
+    2300008: Piso_Escadaria_Fundo
+    2300010: Piso_Escadaria_Porta
+    3300000: Degraus_D
+    3300002: Degraus_E
+    3300004: Escada_Vigas_Curva_Direita
+    3300006: Escada_Vigas_Curva_Esquerda
+    3300008: Piso_Escadaria_Fundo
+    3300010: Piso_Escadaria_Porta
+    4300000: Piso_Escadaria_Porta
+    4300002: Degraus_D
+    4300004: Degraus_E
+    4300006: Piso_Escadaria_Fundo
+    4300008: Escada_Vigas_Curva_Direita
+    4300010: Escada_Vigas_Curva_Esquerda
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Degraus
+    second: {fileID: 2100000, guid: 802f462a5a070244ea6ac8406456563c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Degraus_Acabamento
+    second: {fileID: 2100000, guid: f5679e360d461eb44a46683f5095dced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Degraus_Piso
+    second: {fileID: 2100000, guid: 587d25accdc14644eb1973dd51861c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 04817c68b5948fc4f81a3b7cfa4df26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Escadaria_Fundo
+    second: {fileID: 2100000, guid: cc151b4714a631f4d93f85d86137db6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Escadaria_Fundo_Ceramica
+    second: {fileID: 2100000, guid: 2e5eea2dc0c0d6545808649700368d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Escadaria_Porta
+    second: {fileID: 2100000, guid: 32a215a370d19c245ad96007e315ed7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso_Escadaria_Porta_Ceramica
+    second: {fileID: 2100000, guid: e8648191e282af742b09a7ca0321b1f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

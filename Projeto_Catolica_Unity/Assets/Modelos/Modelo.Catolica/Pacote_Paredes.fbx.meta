@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: a51f86990e8d0b0459fb1b0c42e4722b
+timeCreated: 1520692197
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Janela_Corredor_Lateral
+    100002: //RootNode
+    100004: Parede_Geral_Interna
+    100006: Parede_Interna_Corredor_Lateral_Alta
+    100008: Parede_Interna_Corredor_Lateral_Baixa
+    100010: Parede_Interna_Escada_Pisos
+    100012: Parede_Interna_Escada_TG
+    100014: Parede_Interna_Escada_TP
+    400000: Janela_Corredor_Lateral
+    400002: //RootNode
+    400004: Parede_Geral_Interna
+    400006: Parede_Interna_Corredor_Lateral_Alta
+    400008: Parede_Interna_Corredor_Lateral_Baixa
+    400010: Parede_Interna_Escada_Pisos
+    400012: Parede_Interna_Escada_TG
+    400014: Parede_Interna_Escada_TP
+    2300000: Janela_Corredor_Lateral
+    2300002: Parede_Geral_Interna
+    2300004: Parede_Interna_Corredor_Lateral_Alta
+    2300006: Parede_Interna_Corredor_Lateral_Baixa
+    2300008: Parede_Interna_Escada_Pisos
+    2300010: Parede_Interna_Escada_TG
+    2300012: Parede_Interna_Escada_TP
+    3300000: Janela_Corredor_Lateral
+    3300002: Parede_Geral_Interna
+    3300004: Parede_Interna_Corredor_Lateral_Alta
+    3300006: Parede_Interna_Corredor_Lateral_Baixa
+    3300008: Parede_Interna_Escada_Pisos
+    3300010: Parede_Interna_Escada_TG
+    3300012: Parede_Interna_Escada_TP
+    4300000: Parede_Interna_Escada_Pisos
+    4300002: Parede_Interna_Escada_TG
+    4300004: Parede_Interna_Escada_TP
+    4300006: Parede_Interna_Corredor_Lateral_Baixa
+    4300008: Parede_Interna_Corredor_Lateral_Alta
+    4300010: Parede_Geral_Interna
+    4300012: Janela_Corredor_Lateral
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b739ef4de02f9934085350264cc763b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Geral_Interna
+    second: {fileID: 2100000, guid: 3f856618b93077f48b6dfb870d015a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Geral_Interna_Ceramica
+    second: {fileID: 2100000, guid: 1488da397e6b1ac43bc11b4564f890ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_Alta
+    second: {fileID: 2100000, guid: 7a11ae04c9485134e9ba961e463e6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_Alta_Ceramica
+    second: {fileID: 2100000, guid: 76efd10d744a77c409d47f9d788fe628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_Baixa
+    second: {fileID: 2100000, guid: 7b4654f7d037cee45ab80249d5ceb4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Corredor_Lateral_Baixa_Ceramica
+    second: {fileID: 2100000, guid: dc08cccf495e02e41a971848d57a7f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos
+    second: {fileID: 2100000, guid: 1b9ffb647412c8f4aa9a3afc8cbc1101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos_Ceramica
+    second: {fileID: 2100000, guid: fbacf8e124e4bd446b232290173b6e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_Pisos_Lajota
+    second: {fileID: 2100000, guid: fdbdccf5554e43f448edce0cb6dc8d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG
+    second: {fileID: 2100000, guid: c8f894a36e546b44eb34d7f6e5219a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG_Ceramica
+    second: {fileID: 2100000, guid: dcc5a930bddfc0143a9b81321e9140cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TG_Lajota
+    second: {fileID: 2100000, guid: 3b78bcce2ae08d847af6c2d12b3a6816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TP
+    second: {fileID: 2100000, guid: 5c68e3f9706c6b447a200da0f68c1635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Interna_Escada_TP_Ceramica
+    second: {fileID: 2100000, guid: 1d7811242193fd742984ea59fa3302b5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
